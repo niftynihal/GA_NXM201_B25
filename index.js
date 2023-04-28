@@ -10,5 +10,3 @@ if (str.length > str2.length) {
     console.log("false....")
 }
 
-
-// 12 : 40pm
